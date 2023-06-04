@@ -1,0 +1,23 @@
+{
+  "name": "minartic",
+  "version": "1.0.0",
+  "description": "A drawing game inspired by Gartic but with a minimalist touch",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoteixeirat/minartic.git"
+  },
+  "keywords": [
+    "drawing",
+    "game"
+  ],
+  "author": "João Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoteixeirat/minartic/issues"
+  },
+  "homepage": "https://github.com/joaoteixeirat/minartic#readme"
+}
